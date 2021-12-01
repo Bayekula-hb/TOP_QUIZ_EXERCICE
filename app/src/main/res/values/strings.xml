@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <string name="what_name">Welcome \nQuel est ton nom ??</string>
+    <string name="hint_home">Veuillez saisir votre nom</string>
+    <string name="btn_home">Jouer</string>
+    <string name="question_title">Question</string>
+    <string name="answers1">Response 1</string>
+    <string name="answers2">Response 2</string>
+    <string name="answers3">Response 3</string>
+    <string name="answers4">Response 4</string>
+</resources>
